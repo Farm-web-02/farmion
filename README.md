@@ -84,9 +84,9 @@ GitHub에서 `dev` 브랜치를 대상으로 PR을 생성합니다.
   * **base:** `dev`
   * **compare:** `feature/...`
 
-#### **3. Squash and Merge**
+#### **3. Merge**
 
-**본인이 직접** PR을 확인하고 **Squash and Merge**를 진행합니다.
+**본인이 직접** PR을 확인하고 **Merge**를 진행합니다.
 
 > 리뷰 과정은 생략하고, 자신의 파트에 대한 책임 하에 직접 머지합니다.
 
